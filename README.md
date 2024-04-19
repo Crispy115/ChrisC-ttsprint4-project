@@ -23,7 +23,7 @@ The app will open in your default web browser, allowing you to interact with the
 
 
 
-Features
+Features:
 
 
 Filter listings by manufacturer, model, year range, and vehicle type.
@@ -34,7 +34,7 @@ Explore insights into the market of used cars in the United States.
 
 
 
-Technologies Used
+Technologies Used:
 
 
 Python

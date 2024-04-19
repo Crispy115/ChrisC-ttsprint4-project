@@ -1,6 +1,6 @@
 # ChrisC-ttsprint4-project
 
-Used Cars Market Analysis
+Used Car Listing Market Analysis
 
 
 This Streamlit app provides an interactive dashboard for analyzing the market of used cars. Users can explore various aspects of the dataset, including filtering by manufacturer, model, year range, and vehicle type. The app offers visualizations such as histograms, bar charts, and scatter plots to gain insights into the dataset.

@@ -25,7 +25,7 @@ df['manufacturer'], df['model'] = zip(*df['model'].apply(extract_manufacturer_mo
 
 
 df['is_4wd'].fillna(0, inplace=True)
-df['paint_color'].fillna('other', inplace=True)
+df['paint_color'].fillna('unknown', inplace=True)
 
 manufacturer_choice = ['all'] + list(df['manufacturer'].unique())
 
